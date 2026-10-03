@@ -1,0 +1,1 @@
+{"name":"Мед-Блокнот+","short_name":"Мед-Блокнот","description":"Локальный медицинский дневник с работой без интернета","start_url":".","display":"standalone","background_color":"#f4f7f5","theme_color":"#1f6658","lang":"ru","scope":".","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
