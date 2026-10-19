@@ -1,0 +1,1 @@
+function a(r){return new Intl.NumberFormat("ru-RU",{useGrouping:!1,maximumFractionDigits:10}).format(r)}function t(r){return r.replace(/\*+$/,"").trimEnd().replace(new RegExp("(?<![\\d:])([+-]?\\d+)\\.(\\d+)(?![\\d:])","g"),"$1,$2")}export{t as a,a as f};
