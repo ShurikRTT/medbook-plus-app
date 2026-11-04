@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "ru.medbook.family",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkFileName": "MedBook-1.0.7.apk",
+  "size": 5367553,
+  "sha256": "59040c6cbc940e0e0089255629cad9b30ccddb93a06731a53f77f7dc8bf2245b",
+  "minAndroidSdk": 24,
+  "notes": "Возвращена круглая кнопка синхронизации на главном экране. Рядом — короткий статус и время последнего обмена. Техническое название WebDAV убрано из шапки; подключение и данные сохраняются."
+}
