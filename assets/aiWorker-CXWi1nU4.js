@@ -1,0 +1,1 @@
+import{c as i}from"./composition-root-CTeKu6IO.js";async function r(t,e=()=>Date.now()){const n=await t.nextWakeAt(!0);return n!==null&&n<=e()&&await t.pump(void 0,!0),t.nextWakeAt(!0)}async function a(){if(!window.medbookAiWorker)return;let t=null,e=!1;try{t=await r(i().dayAiService),e=!0}catch{}window.medbookAiWorker.finish(JSON.stringify({next:t,ok:e}))}a();
