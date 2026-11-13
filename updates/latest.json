@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "apkFileName": "MedBook-1.0.13.apk",
+  "versionCode": 15,
+  "versionName": "1.0.14",
+  "apkFileName": "MedBook-1.0.14.apk",
   "size": 4615838,
-  "sha256": "f255de8e9cb5b89157fbf8953d5168f0bacf4997daeb40a06d065fc469505299",
+  "sha256": "f0984e142372a69ec764b54189fcaa1098108ff939964a42e0c81bb48f7d1443",
   "minAndroidSdk": 24,
-  "notes": "DeepSeek: баланс CNY, история usage и расчётной стоимости, фильтры и графики. Отложенный разбор дня через системную очередь Android и Windows без открытого окна. Защита от повторов и расходов. Ключи и история остаются в прежнем локальном профиле."
+  "notes": "Версия Windows отображается в заголовке окна; установленная версия Android — сразу в заголовке настроек. Браузерный интерфейс в этом выпуске не обновляется."
 }
