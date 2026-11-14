@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 21,
-  "versionName": "1.0.20",
-  "apkFileName": "MedBook-1.0.20.apk",
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "apkFileName": "MedBook-1.0.21.apk",
   "size": 4636466,
-  "sha256": "81f7d5065d347738e64d0a695d3a426780e79ec1a4b4155978105f6fe31aa2e0",
+  "sha256": "54fa0e3962227950d1d65eff947987e2de6f3b376f2f5c2c7e1473288409b959",
   "minAndroidSdk": 24,
-  "notes": "Исправлено сохранение HTML на телефоне. Добавлен отчёт с оригиналами документов в ZIP и прямой выбор года в календаре."
+  "notes": "Исправлена кнопка и жест Назад на Android: закрытие форм, возврат в дневник и защита несохранённых изменений."
 }
