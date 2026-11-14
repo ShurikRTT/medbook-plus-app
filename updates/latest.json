@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "apkFileName": "MedBook-1.0.19.apk",
-  "size": 4628216,
-  "sha256": "edfee960006d9c2e3c00406369a56c1e614ea9596f000f3fb01793ac1da8b7d9",
+  "versionCode": 21,
+  "versionName": "1.0.20",
+  "apkFileName": "MedBook-1.0.20.apk",
+  "size": 4636466,
+  "sha256": "81f7d5065d347738e64d0a695d3a426780e79ec1a4b4155978105f6fe31aa2e0",
   "minAndroidSdk": 24,
-  "notes": "Технические сведения об ИИ убраны из просмотра медицинской записи. Источник сохранён и доступен в редакторе через «О разборе ИИ»."
+  "notes": "Исправлено сохранение HTML на телефоне. Добавлен отчёт с оригиналами документов в ZIP и прямой выбор года в календаре."
 }
