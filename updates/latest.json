@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "apkFileName": "MedBook-1.0.15.apk",
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "apkFileName": "MedBook-1.0.16.apk",
   "size": 4619934,
-  "sha256": "5e28ba92d4d592624c59d5cb2a13c77829b5dcc0008ac10243450720d9e9e647",
+  "sha256": "69192d9a5fe2ee527cdb8b422319e97b8d644960e6f3bdb7e09e74a2cfc02692",
   "minAndroidSdk": 24,
-  "notes": "ИИ: сервис, модель и платность видны до запуска. Результат сохраняет фактический источник. Локальный разбор по правилам явно отличается от ИИ. Выбор сервиса дня запоминается. Windows/APK, браузерный интерфейс не изменён."
+  "notes": "Исправлен вызов транспорта DeepSeek и OpenRouter в WebView. Разбор дня сохраняет код HTTP и различает ошибки сети, ключа и проверки ответа. Исправлено чтение дробного баланса DeepSeek."
 }
