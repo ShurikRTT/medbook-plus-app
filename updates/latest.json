@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "apkFileName": "MedBook-1.0.23.apk",
-  "size": 4636466,
-  "sha256": "2ce680d8eed8674e0003ab5bf39395c8f23113df248d55f9cbab60e48a770979",
+  "versionCode": 25,
+  "versionName": "1.0.24",
+  "apkFileName": "MedBook-1.0.24.apk",
+  "size": 4640562,
+  "sha256": "a6a857cad0696dbd4b9cfb96a6881794c92c4ea0c7d6bc8947ccbb6f3c47e8b9",
   "minAndroidSdk": 24,
-  "notes": "Медицинские периоды: компактные раскрываемые строки, вертикальный список дней и понятные подписи количества записей."
+  "notes": "Понятное окно состояния синхронизации: реальные изменения для отправки, отдельный статус записей и локальная проверка документов без интернета."
 }
