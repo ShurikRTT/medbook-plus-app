@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 23,
-  "versionName": "1.0.22",
-  "apkFileName": "MedBook-1.0.22.apk",
+  "versionCode": 24,
+  "versionName": "1.0.23",
+  "apkFileName": "MedBook-1.0.23.apk",
   "size": 4636466,
-  "sha256": "ab3bbebdb32e7c5df0d3d587484524d93ac257bf5c60b7498d5c8c4d3d205ff1",
+  "sha256": "2ce680d8eed8674e0003ab5bf39395c8f23113df248d55f9cbab60e48a770979",
   "minAndroidSdk": 24,
-  "notes": "Включена нативная обработка кнопки и жеста Назад в Android. Возврат из форм и вкладок с защитой несохранённых правок."
+  "notes": "Медицинские периоды: компактные раскрываемые строки, вертикальный список дней и понятные подписи количества записей."
 }
