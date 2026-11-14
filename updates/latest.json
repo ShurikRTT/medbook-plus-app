@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 17,
-  "versionName": "1.0.16",
-  "apkFileName": "MedBook-1.0.16.apk",
-  "size": 4619934,
-  "sha256": "69192d9a5fe2ee527cdb8b422319e97b8d644960e6f3bdb7e09e74a2cfc02692",
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "apkFileName": "MedBook-1.0.17.apk",
+  "size": 4624120,
+  "sha256": "bd5a9ebda9fb253dbdb325db3373ea8359d62b52d7716e35fe840159d3bd8160",
   "minAndroidSdk": 24,
-  "notes": "Исправлен вызов транспорта DeepSeek и OpenRouter в WebView. Разбор дня сохраняет код HTTP и различает ошибки сети, ключа и проверки ответа. Исправлено чтение дробного баланса DeepSeek."
+  "notes": "Разбор дня: компактные проверяемые события вместо простыни цитат. Одно сохранение в обычные данные записей. Отрицания и просьбы не считаются приёмами. Старые ответы готовятся к проверке без нового API-запроса. Сохранены связи боли и препаратов между заметками дня."
 }
