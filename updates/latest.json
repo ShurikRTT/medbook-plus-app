@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 22,
-  "versionName": "1.0.21",
-  "apkFileName": "MedBook-1.0.21.apk",
+  "versionCode": 23,
+  "versionName": "1.0.22",
+  "apkFileName": "MedBook-1.0.22.apk",
   "size": 4636466,
-  "sha256": "54fa0e3962227950d1d65eff947987e2de6f3b376f2f5c2c7e1473288409b959",
+  "sha256": "ab3bbebdb32e7c5df0d3d587484524d93ac257bf5c60b7498d5c8c4d3d205ff1",
   "minAndroidSdk": 24,
-  "notes": "Исправлена кнопка и жест Назад на Android: закрытие форм, возврат в дневник и защита несохранённых изменений."
+  "notes": "Включена нативная обработка кнопки и жеста Назад в Android. Возврат из форм и вкладок с защитой несохранённых правок."
 }
