@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "ru.medbook.family",
-  "versionCode": 29,
-  "versionName": "1.0.28",
-  "apkFileName": "MedBook-1.0.28.apk",
+  "versionCode": 30,
+  "versionName": "1.0.29",
+  "apkFileName": "MedBook-1.0.29.apk",
   "size": 4644658,
-  "sha256": "fbe042a2b47990b69f6ee88c78454d069d0958b5a37549946a61101362178d19",
+  "sha256": "4c0ef446108d6fe75d4cc7484e03eccc98dc2705df8aaae738e4305a767ba015",
   "minAndroidSdk": 24,
   "notes": "График открывается отдельным окном. Смена источника отмечена пунктиром вместо разрыва. Исправлены шкала малых значений, время измерений и выбор точек; добавлен равный шаг дат. Фильтры списка не скрывают нормальные точки графика."
 }
